@@ -1,7 +1,41 @@
-.omnia{
-    background-color:red;
-    color: blue;
-    padding: 10px;
-    margin: 10px;
+.body{
+    padding: 70px;
+}
+
+/*Main nav bar*/
+.navbar {
     
+    min-height: 70px;
+    
+}
+
+/*Navbar links color --- brand color*/
+.navbar-inverse .navbar-nav > li > a{
+    color: #BBB;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    line-height: 20px;
+    font-size: 16px;
+}
+
+/*Brand name*/
+.navbar-inverse .navbar-brand{
+    color: #BBB;
+    font-size: 30px;
+    line-height:40px;
+}
+
+.navbar-inverse .navbar-brand span{
+ color:blue;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+/*nav bar toggle*/
+.navbar-toggle {
+    margin-top: 16px;
 }
