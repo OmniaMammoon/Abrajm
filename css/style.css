@@ -89,5 +89,38 @@
     margin-bottom: 10px;
     color:#888;
 }
-
 /*End section solution*/
+/*Start section clients*/
+.clients{
+    background: #EEE;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top:10px;
+}
+.clients h1{
+    margin-bottom: 50px;
+}
+.clients .clint_work{
+    margin-bottom: 30px;
+}
+.clients .clint_work p{
+    line-height:2em;
+    padding-top: 10px;
+}
+.clients .clint_work span{
+color:blue;
+font-weight: bold;
+}
+.clients .clint_work img{
+    text-indent: 0;
+    width: 80%;
+    height : 60%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 3px solid;
+    border-color: blue;
+    border-radius: 20%;
+    overflow: hidden;
+
+}
+/*End section clients*/
