@@ -58,6 +58,9 @@
     padding-top: 25px;
     padding-bottom: 25px;
 }
+.about h1{
+    font-weight: bold;
+}
 .about .lead{
     color: #888;
     font-size: 25px;
@@ -66,3 +69,25 @@
 .about h1 span{
     color: blue;
 }
+/*start section solution*/
+.solution{
+    background: #EEE;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.solution h1{
+    margin-bottom: 50px;
+}
+.solution .sol{
+    margin-bottom: 30px;
+}
+.solution .sol p{
+    line-height:2em;
+}
+.solution .sol span.glyphicon{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color:#888;
+}
+
+/*End section solution*/
