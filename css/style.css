@@ -2,11 +2,6 @@
     padding: 70px;
 }
 
-
-
-
-
-
 /***Overriding bootstrab***/
 /*Main nav bar*/
 .navbar {
@@ -56,4 +51,18 @@
     
     background: blue;
 
+}
+/*start seection about*/
+
+.about{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.about .lead{
+    color: #888;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.about h1 span{
+    color: blue;
 }
