@@ -124,3 +124,18 @@ font-weight: bold;
 
 }
 /*End section clients*/
+/*Start section brands*/
+.Brands{
+    background: #EEE;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top:10px;
+}
+.Brands h1{
+    margin-bottom: 50px;
+}
+.carousel-control {
+    padding-top:10%;
+    width:5%;
+  }
+/*End section brands*/
